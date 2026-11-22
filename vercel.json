@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/bookshelf", "destination": "/index.html" },
+    { "source": "/bookshelf/:user", "destination": "/index.html" }
+  ]
+}

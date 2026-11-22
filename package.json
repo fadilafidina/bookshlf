@@ -1,0 +1,11 @@
+{
+  "name": "bookshlf",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Turn any public Goodreads shelf into a wall of book spines.",
+  "scripts": {
+    "dev": "node dev-server.js"
+  },
+  "engines": { "node": ">=18" }
+}
